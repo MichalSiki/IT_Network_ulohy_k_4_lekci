@@ -14,17 +14,15 @@ public class Main {
       //  System.out.println("tve jmeno " + jmeno.toUpperCase()+ " " + prijmeni.toUpperCase());
       //  System.out.println("Za rok ti bude " + vek+1);
 
-//PROGRAM 2) 4 LEKCE  ---  DODELAT NEVIM PREVOD STRINGU NA INT  ---
+//PROGRAM 2) 4 LEKCE  ---  OK  ---
 
       //  System.out.println("Zadej dve slova první delsi a druhy kratsi:");
       //  String a = (sc.nextLine());
+      //  int aaaa = a.length();
       //  System.out.println("Delsi slovo:");
       //  String b = (sc.nextLine());
-      //  String aa = a.trim();
-      //  int aaa = Integer.parseInt(a.trim());
-      //  String bb = b.trim();
-      //  int bbb = Integer.parseInt(b.trim());
-      //  System.out.println("Slova se lisi o " + (aaa - bbb)  + "znaku");
+      //  int bbbb = b.length();
+      //  System.out.println("Slova se lisi o " + (aaaa - bbbb)  + " znaku");
 
 //PROGRAM 3) 4 LEKCE  ---  OK  ---
 
