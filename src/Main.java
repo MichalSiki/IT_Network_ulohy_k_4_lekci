@@ -11,7 +11,7 @@ public class Main {
       //  String prijmeni = (sc.nextLine());
       //  System.out.println("Zadej vek: ");
       //  int vek = (sc.nextInt());
-      //  System.out.println("tve jmeno " + jmeno.toUpperCase()+ " " + prijmeni.toUpperCase());
+      // System.out.println("tve jmeno " + jmeno.toUpperCase()+ " " + prijmeni.toUpperCase());
       //  System.out.println("Za rok ti bude " + vek+1);
 
 //PROGRAM 2) 4 LEKCE  ---  OK  ---
